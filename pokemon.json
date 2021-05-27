@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ash Ketchup",
+        "pueblo": "Pueblo Paleta",
+        "pokemon": [
+            "Pikachu",
+            "Charmander",
+            "Squirtle"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Misty",
+        "pueblo": "Ciudad Celeste",
+        "pokemon": [
+            "Togepy",
+            "Goldeen",
+            "Starmie"
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Brock",
+        "pueblo": "Ciudad Plateada",
+        "pokemon": [
+            "Onix",
+            "Geodude"
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Samuel",
+        "pueblo": "Ciudad Azulona",
+        "pokemon": []
+    }
+]
